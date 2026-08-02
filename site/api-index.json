@@ -1,0 +1,17 @@
+{
+  "standards": [
+    { "title": "PoRC‑SCS Standard", "file": "STANDARD.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/STANDARD.md" },
+    { "title": "Certification Policy", "file": "CERT_POLICY.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/CERT_POLICY.md" },
+    { "title": "Verifier Overview", "file": "VERIFIER_OVERVIEW.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/VERIFIER_OVERVIEW.md" },
+    { "title": "Atlas Overview", "file": "ATLAS_OVERVIEW.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/ATLAS_OVERVIEW.md" },
+    { "title": "Global Policy Framework", "file": "GLOBAL_POLICY_FRAMEWORK.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/GLOBAL_POLICY_FRAMEWORK.md" }
+  ],
+  "nodes": [
+    { "title": "Global Nodes", "file": "GLOBAL_NODES.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/GLOBAL_NODES.md" },
+    { "title": "Node Energy Profile", "file": "NODE_ENERGY_PROFILE.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/NODE_ENERGY_PROFILE.md" }
+  ],
+  "governance": [
+    { "title": "Sovereign Governance", "file": "SOVEREIGN_GOVERNANCE.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/SOVEREIGN_GOVERNANCE.md" },
+    { "title": "Governance", "file": "GOVERNANCE.md", "url": "https://github.com/onyxtw/porc-scs-alliance/blob/main/GOVERNANCE.md" }
+  ]
+}
